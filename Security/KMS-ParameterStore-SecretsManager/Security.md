@@ -1,5 +1,7 @@
 1. KMS (IAM)
 
+   regional service but support multi regional
+
     3 type
    - Customer managed key
    - AWS managed key
